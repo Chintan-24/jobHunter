@@ -4,4 +4,4 @@ jobHunt is React native app for Job searching made using Jsearch API and React n
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
 
-
+![jobHunter-CB](https://user-images.githubusercontent.com/53387537/234282815-2f4f5e52-6133-459d-bd10-c74d069ec59a.png)
